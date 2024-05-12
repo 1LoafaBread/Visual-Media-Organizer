@@ -20,7 +20,7 @@ Support me by making cryptocurrency donations ^~^
 - "Select Folder" button for easy folder selection exploration.
 
 ## How to Use:
-When ran, you will see three buttons at the bottom left: "Back," "Save," and "Next," each performing its respective action. When saving a file, a new directory called "Saved" will be created within the selected folder.
+When ran, you will see three buttons at the bottom left: "Back," "Save," and "Next," each performing its respective action. When saving a file, a new directory called "VMO_Saved" will be created within the selected folder.
 
 To the right of the 3 buttons there are 2 text lines. The bottom text line displays the selected file's name and extension, and the top line indicates "Saved!" when a file is successfully saved.
 
