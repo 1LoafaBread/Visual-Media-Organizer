@@ -1,5 +1,5 @@
 # Visual-Media-Organizer
-(GUI) Easily organize bulk downloaded media files. This program allows you to select a folder and view all the media files one at a time, displaying them on the program window. You can then choose to save a file or move to the next one.
+(GUI) Easily organize a large amount of media files. This program will allow you to select a folder and view all the media files one at a time, displaying them on the program window and you chose to save it or go to the next.
 
 ## How to Support:
 Support me by making cryptocurrency donations ^~^
