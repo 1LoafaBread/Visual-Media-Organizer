@@ -26,3 +26,5 @@ When ran, you will see three buttons at the bottom left: "Back," "Save," and "Ne
 Above and to the right of the 3 buttons there are 2 text lines. The text line above displays the selected file's name and extension, and the right text line indicates "Saved!" when a file is successfully saved.
 
 On the bottom right there are 3 buttons, "Keybinds", "Clear Cache", and "Select Folder". The "Select Folder" button prompts you to choose a folder, loading all media within the selected folder for navigation. "Clear Cache" removes saved progress for files viewed in the selected folder. "Keybinds" will open a window where you can set your keybinds/hotkeys for the Next, Save, and Back buttons.
+
+Above the 3 buttons on the right there is 1 text line, this is where it will display how many files you viewed and how many files are left to view. (Ex. 15/765).
