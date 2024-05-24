@@ -18,10 +18,11 @@ Support me by making cryptocurrency donations ^~^
 - "Save" button to store selected media.
 - Caching viewed media so that progress is saved between sessions.
 - "Select Folder" button for easy folder selection exploration.
+- Keybinds/Hotkeys settings to make using the program more fast and easy.
 
 ## How to Use:
 When ran, you will see three buttons at the bottom left: "Back," "Save," and "Next," each performing its respective action. When saving a file, a new directory called "VMO_Saved" will be created within the selected folder.
 
-To the right of the 3 buttons there are 2 text lines. The bottom text line displays the selected file's name and extension, and the top line indicates "Saved!" when a file is successfully saved.
+Above and to the right of the 3 buttons there are 2 text lines. The text line above displays the selected file's name and extension, and the right text line indicates "Saved!" when a file is successfully saved.
 
-On the bottom right there are 2 buttons "Clear Cache" and "Select Folder". The "Select Folder" button prompts you to choose a folder, loading all media within for navigation. "Clear Cache" removes saved progress for files viewed in the selected folder.
+On the bottom right there are 3 buttons, "Keybinds", "Clear Cache", and "Select Folder". The "Select Folder" button prompts you to choose a folder, loading all media within the selected folder for navigation. "Clear Cache" removes saved progress for files viewed in the selected folder. "Keybinds" will open a window where you can set your keybinds/hotkeys for the Next, Save, and Back buttons.
