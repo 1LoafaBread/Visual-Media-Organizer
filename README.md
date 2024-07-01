@@ -1,4 +1,4 @@
-<img src="https://github.com/1LoafaBread/Visual-Media-Organizer/blob/main/Banner.png">
+<img src="https://github.com/1LoafaBread/Visual-Media-Organizer/blob/main/Banner.png?raw=true">
 
 # Visual-Media-Organizer
 (GUI) Easily organize a large amount of media files. This program will allow you to select a folder and view all the media files one at a time, displaying them on the program window and you chose to save it or go to the next.
