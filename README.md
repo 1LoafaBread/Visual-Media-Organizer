@@ -30,7 +30,7 @@ Above, and to the right of the 3 buttons there are 2 text lines. The text line a
 On the bottom right there are 6 buttons, "Keybinds", "Clear Cache", "Select Folder", "Organize Type", "Refresh", and "Media Type":
 - The "Select Folder" button prompts you to choose a folder, loading all media within the selected folder for navigation.
 - "Clear Cache" removes saved progress for files viewed in the selected folder.
-- "Keybinds" will open a window where you can set your keybinds/hotkeys for the Next, Save, and Back buttons.
+- "Keybinds" will open a window where you can set your keybinds/hotkeys for the "Next", "Save", "Back", and "Next Folder" buttons.
 - "Organize Type" is a dropdown menu to select the method of organization/order to display files in a folder.
 - "Refresh" will refresh the current display order with the selected organize type.
 - "Media Type" is a drop down menu where you can choose to only display video files, image files, or both.
