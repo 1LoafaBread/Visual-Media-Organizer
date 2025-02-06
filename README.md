@@ -5,6 +5,7 @@
 
 ## How to Support:
 Support me by making cryptocurrency donations ^~^
+- PayPal: https://www.paypal.com/paypalme/1loafofbread
 - Bitcoin (BTC) - 14YfYXJJqDpwp3rHghhr7cuiihgvEdSBV6
 - Ethereum (ETH) - 0x53678F8f4966ADeD487e4826e69eF11aaedc4a43
 - Solana (SOL) - 7bSAFtxLPmjHkW5Ej7pqMN7Zr6u7HF7CDFWdmjEYSuUq
