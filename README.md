@@ -16,24 +16,41 @@ Support me by making cryptocurrency donations ^~^
 - Ripple (XRP) - rJwtbzoac9cYncjaAceKrexrQyEBcCFw9d
 
 ## Features:
-- User-friendly GUI.
-- "Next" and "Back" buttons for easy media traversal.
-- "Save" button to store selected media.
-- Caching viewed media so that progress is saved between sessions.
-- "Select Folder" button for easy folder selection exploration.
-- Keybinds/Hotkeys settings to make using the program more fast and easy.
+- User-friendly GUI with improved visual design
+- "Next" and "Back" buttons for easy media traversal
+- "Folder Back" button to return to previously viewed folders
+- "Save" button to store selected media
+- "Unsave" button to remove files from saved folder
+- Caching viewed media so that progress is saved between sessions
+- "Select Folder" button for easy folder selection
+- "Open Source Folder" button to view current folder in File Explorer
+- Keybinds/Hotkeys settings with persistent configurations
+- "Mute Video" checkbox to toggle audio for video files
+- "Save Goto Next" automation option
+- "Previously Saved!" indicator for organized files
+- Button safety lock during saving operations
+- Media traversal progress counter
 
 ## How to Use:
-When ran, you will see three buttons at the bottom left: "Back", "Save", "Next", and "Next Folder", each performing its respective action. When saving a file, a new directory called "VMO_Saved" will be created within the selected folder.
+Bottom Right Buttons:
+- "Back Folder": Goes to the previous folder
+- "Next Folder": Goes to the next folder
+- "Back": Goes to the previous file
+- "Unsave": Removes the current files from the saved folder
+- "Save": Saved the current files to the saved folder
+- "Next": Goes to the next file
 
-Above, and to the right of the 3 buttons there are 2 text lines. The text line above reads the selected folder name and the displayed file's name.extension, and the right text line indicates "Saving..." then "Saved!" when a file is successfully saved.
+Top Right Options:
+- "Select Folder": Choose a folder to organize
+- "Open Source Folder": Opens current folder in File Explorer
+- "Clear Cache": Removes saved progress for current folder
+- "Keybinds": Set persistent hotkeys for navigation actions
+- "Organize Type": Dropdown menu for file display order
+- "Refresh": Reload files with current organize type
+- "Media Type": Filter for videos/images/both
+- "Mute Video" checkbox: Toggle audio for video files
+- "Save Goto Next" checkbox: When enabled, automatically advances to next file after saving
 
-On the bottom right there are 6 buttons, "Keybinds", "Clear Cache", "Select Folder", "Organize Type", "Refresh", and "Media Type":
-- The "Select Folder" button prompts you to choose a folder, loading all media within the selected folder for navigation.
-- "Clear Cache" removes saved progress for files viewed in the selected folder.
-- "Keybinds" will open a window where you can set your keybinds/hotkeys for the "Next", "Save", "Back", and "Next Folder" buttons.
-- "Organize Type" is a dropdown menu to select the method of organization/order to display files in a folder.
-- "Refresh" will refresh the current display order with the selected organize type.
-- "Media Type" is a drop down menu where you can choose to only display video files, image files, or both.
-
-Above the buttons on the right there is 1 text line, this is where it will display how many files you viewed and how many files are left to view. (Ex. 15/765).
+Bottom Left Text:
+- The very bottom left text displays the name and extension of the current file.
+- The text above that shows how many files you have currently viewd out of how many files are left to view in the folder.
