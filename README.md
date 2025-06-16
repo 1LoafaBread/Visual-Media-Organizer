@@ -51,5 +51,5 @@ Support my work with cryptocurrency donations ^~^
 - **Save Goto Next**: Auto-advance after saving.  
 
 ### **Bottom Left Text**  
-- Displays the **current filename and extension**.  
+- Displays the **current foldername, filename, and extension** (foldername/filename.ext).
 - Shows **progress** (e.g., "5/20 files viewed").  
