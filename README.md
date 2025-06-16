@@ -3,6 +3,8 @@
 # Visual Media Organizer  
 **(GUI)** Easily organize large collections of media files. This program lets you select a folder and review files one at a time, displaying them in the application window so you can choose to save or skip to the next.  
 
+<img src="https://github.com/1LoafaBread/Visual-Media-Organizer/blob/main/ProgramImage.png?raw=true" alt="Visual Media Organizer Image">  
+
 ## How to Support  
 Support my work with cryptocurrency donations ^~^  
 - **PayPal**: [paypal.me/1loafofbread](https://www.paypal.com/paypalme/1loafofbread)  
