@@ -48,6 +48,6 @@ Support my work with cryptocurrency donations ^~^
 - **Mute Video**: Toggle audio for video playback.  
 - **Save Goto Next**: Auto-advance after saving.  
 
-### **Bottom Left Status**  
+### **Bottom Left Text**  
 - Displays the **current filename and extension**.  
 - Shows **progress** (e.g., "5/20 files viewed").  
